@@ -1,5 +1,6 @@
 # microlabborators 👩‍👦‍👦🔬👩‍🏫
 
+> Built for the "Optics go digital" Hackathon -   
 > put microscope images into AR for advanced collaboration 🔮🔬👩‍🏫
 
 Teacher/student classroom scenario for gamified collaboration on three dimensional microscopic images.
